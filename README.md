@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @okrahul
+ <h2>👋 Hi, I’m <a href="https://github.com/okrahul"> @okrahul </a></h2>
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on Web Based Projects
