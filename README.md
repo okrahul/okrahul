@@ -1,4 +1,5 @@
  <h2>👋 Hi, I’m <a href="https://github.com/okrahul"> @okrahul </a></h2>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Learner;A+Developer;Open-Source+Enthusiast;JavaScript+Lover)](https://git.io/typing-svg)
 - 👀 I’m interested in Web Development <br>
 - 🌱 I’m currently learning JavaScript and React<br>
 - 💞️ I’m looking to collaborate on Web Based Projects<br>
