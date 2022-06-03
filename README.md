@@ -1,4 +1,4 @@
-<h2>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40px" />  Hi, I’m <a href="https://github.com/okrahul"> @okrahul </a></h2>
+<h2>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="10px" />  Hi, I’m <a href="https://github.com/okrahul"> @okrahul </a></h2>
  
 <img src= "https://readme-typing-svg.herokuapp.com?size=25&color=F7294E&lines=Learner;A+Developer;Open-Source+Enthusiast;JavaScript+Lover" />
 <h2>About Me!! </h2>
